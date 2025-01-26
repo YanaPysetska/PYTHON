@@ -1,0 +1,3 @@
+# Игнорировать .env и settings.py
+.env
+settings.py
